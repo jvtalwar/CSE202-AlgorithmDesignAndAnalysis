@@ -6,7 +6,7 @@
 
 **Ave** or more classically - Welcome to my algorithms repository prudently perplexed protagonist! Here, I've attempted to eloquently and explicitly elucidate algorithmic esoterica, specifically the concepts and problems tackled in [CSE 202 - Algorithm Design and Analysis](https://algorithms.eng.ucsd.edu/cse202). 
 
-At a high-level the problems and solutions provided here cover the following algorithmic approaches: *Divide and Conquer, Dynammic Programming, Greedy, Network Flow, and Approximation Algorithms*. For transparency, I've included both my solutions (along with accompanying scores/grades), but also the course-provided solutions. I strongly recommend though trying the problems first before looking at the solutions. 
+At a high-level the problems and solutions provided here cover the following algorithmic approaches: *Divide and Conquer, Dynammic Programming, Greedy, Network Flow, and Approximation Algorithms*. For transparency, I've included not only my solutions (along with accompanying scores/grades), but also the course-provided solutions. I strongly recommend trying the problems first before looking at the solutions. 
 
 I hope that this proves to be an invaluable resource that is able to guide you in your quest to algorithm mastery.  If any questions arise or a desire for other resources (e.g., course/discussion notes, exams) feel free to reach out. Otherwise I wish you good fortune in the problems to come, and of course may the alorithms be ever in your favor!
 
