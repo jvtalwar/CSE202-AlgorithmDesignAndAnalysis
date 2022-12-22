@@ -53,11 +53,11 @@ I hope that this proves to be an invaluable resource that is able to guide you i
   - Course Solutions: Sadly not provided...
 
 ## Exams:
- - Midterm 1: Divide and Conquer, Dynammic Programming, Greedy Algorithms
+ - **Midterm 1**: *Divide and Conquer, Dynammic Programming, Greedy Algorithms*
     - Score: 24/25
- - Midterm 2: Network Flow (Ford-Fulkerson, Max Flow, and Min Cut)
+ - **Midterm 2**: *Network Flow (Ford-Fulkerson, Max Flow, and Min Cut)*
     - Score: 25/25
- - Final: Cumulative (i.e., Divide and Conquer, Dynammic Programming, Greedy, Network Flow, NP-Completeness and Approximation Algorithms)
+ - **Final**: *Cumulative - Divide and Conquer, Dynammic Programming, Greedy, Network Flow, NP-Completeness and Approximation Algorithms*
     - Score: 40.5/35
 
 **Final Grade: A+**
