@@ -21,9 +21,9 @@ I hope that this proves to be an invaluable resource that is able to guide you i
 - [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw1_s.pdf)
 
 ## Dynammic Programming: Homework 2 and Homework 4
-![DP](https://en.wikipedia.org/wiki/Toph_Beifong#/media/File:Toph_Beifong.png)
+![DP](https://static.wikia.nocookie.net/avatar/images/e/e5/Toph%27s_Champion%27s_belt.png)
 - [Homework 2 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw2.pdf)
-- [Homework 2 JVT Solutions] (https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/JVT%20CSE%20202%20HW%202.pdf)
+- [Homework 2 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/JVT%20CSE%20202%20HW%202.pdf)
   - Score: 20/20 
   - Graded Dynammic Programming Problem: Q1 Nesting Boxes (10/10)
 - [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw2_s.pdf)
