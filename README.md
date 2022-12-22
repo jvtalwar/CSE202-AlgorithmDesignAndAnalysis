@@ -14,39 +14,43 @@ I hope that this proves to be an invaluable resource that is able to guide you i
 
 ## Divide And Conquer: Homework 1
 ![DivideAndConquer](https://static.tvtropes.org/pmwiki/pub/images/zuko_darkwater657.png)
-- [Homework 1 Problems]()
-- [Homework 1 JVT Solutions](): 
+- [Homework 1 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw1.pdf)
+- [Homework 1 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/Homework1_CSE202.pdf) 
   - Score: 17/20 
   - Graded Problems: Q2 Sorted Matrix Search (10/10); Q4 Base Conversion (7/10)
-- [Course Solutions]():
+- [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw1_s.pdf)
 
 ## Dynammic Programming: Homework 2 and Homework 4
-- [Homework 2 Problems]()
-- [Homework 2 JVT Solutions]: 
+![DP](https://en.wikipedia.org/wiki/Toph_Beifong#/media/File:Toph_Beifong.png)
+- [Homework 2 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw2.pdf)
+- [Homework 2 JVT Solutions] (https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/JVT%20CSE%20202%20HW%202.pdf)
   - Score: 20/20 
   - Graded Dynammic Programming Problem: Q1 Nesting Boxes (10/10)
-- [Course Solutions]():
+- [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw2_s.pdf)
 
 ## Greedy Method: Homework 2 and Oxen Pairing Problem
-- [Homework 2 Problems]()
-- [Homework 2 JVT Solutions](): 
+![Greedy](https://i.imgur.com/H1NuRHL.png)
+- [Homework 2 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw2.pdf)
+- [Homework 2 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/JVT%20CSE%20202%20HW%202.pdf)
   - Score: 20/20 
   - Graded Greedy Method Problem: Q2 Classes and Rooms (10/10)
-- [Course Solutions]():
+- [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw2_s.pdf)
 
 ## Network Flow: Homework 3
-- [Homework 3 Problems]()
-- [Homework 3 JVT Solutions](): 
+![NetworkFlow](https://upload.wikimedia.org/wikipedia/en/f/fb/Katara.png)
+- [Homework 3 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw3.pdf)
+- [Homework 3 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/tree/main/HomeworkSolutions/jvtSolutions): 
   - Score: 18.5/20 
   - Graded Problems: Q2 Remote Sensors (8.5/10); Q4 Cellular Network (10/10)
-- [Course Solutions]()
+- [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw3_s.pdf)
 
 ## Approximation Algorithms: Homework 4
- - [Homework 4 Problems]()
- - [Homework 4 JVT Solutions](): 
+ ![Approx](https://miro.medium.com/max/1400/0*3xTjr7rYOjGYjKqi.webp)
+ - [Homework 4 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw4.pdf)
+ - [Homework 4 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/JVT%20CSE%20202%20HW%204.pdf) 
     - Score: 20/20 
     - Graded Problems: Q2 Heaviest First (10/10); Q3 Scheduling (10/10) 
-  - [Course Solutions]()
+  - Course Solutions: Sadly not provided...
 
 ## Exams:
  - Midterm 1: Divide and Conquer, Dynammic Programming, Greedy Algorithms
