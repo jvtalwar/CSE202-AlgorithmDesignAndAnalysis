@@ -39,7 +39,7 @@ I hope that this proves to be an invaluable resource that is able to guide you i
 ## Network Flow: Homework 3
 ![NetworkFlow](https://upload.wikimedia.org/wikipedia/en/f/fb/Katara.png)
 - [Homework 3 Problems](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkProblems/hw3.pdf)
-- [Homework 3 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/tree/main/HomeworkSolutions/jvtSolutions): 
+- [Homework 3 JVT Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/jvtSolutions/JVT%20CSE%20202%20HW%203.pdf) 
   - Score: 18.5/20 
   - Graded Problems: Q2 Remote Sensors (8.5/10); Q4 Cellular Network (10/10)
 - [Course Solutions](https://github.com/jvtalwar/CSE202-AlgorithmDesignAndAnalysis/blob/main/HomeworkSolutions/CourseSolutions/hw3_s.pdf)
